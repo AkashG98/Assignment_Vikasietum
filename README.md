@@ -5,9 +5,7 @@ automatically and you can view it in any RDBMS where sqlite is accessible.
 - Currently there's a hard coded authorization token with payload kindly use that for authentication and authorization . The admin and employee for login are mentioned in test files.
 - Below are some screenshots for reference.
 
-
- ![Screenshot (450)](https://github.com/user-attachments/assets/88f33f04-cf6a-45ae-87d9-27fb9a9427cd)![Screenshot (451)](https://github.com/user-attachments/assets/dbe68d7c-798b-4bfb-bce1-52cad57f73e4)
-
+![Screenshot (451)](https://github.com/user-attachments/assets/dbe68d7c-798b-4bfb-bce1-52cad57f73e4)
 
 ![Screenshot (452)](https://github.com/user-attachments/assets/d84ccab4-9404-423e-b1e4-315fb975cb0d)![Screenshot (453)](https://github.com/user-attachments/assets/8f49d8ce-fbd3-4927-96f1-f47dc479897a)
 
